@@ -1,0 +1,51 @@
+SELECT dia_semana, hora_inicio, hora_fin
+from horario
+where dia_semana=1 or dia_semana=3;
+
+-- imprime la fecha
+
+
+select dia_semana,
+	to char(hora_inicio, 'hh:mi:ss') as HORA_INICIO,
+	to char(hora_fin, 'hh:mi_ss') as HORA_FIN
+	from horario
+	where dia_semana=1 or dia_semana=3;
+
+-- Imprime la hora de inicio y la hora final cuyos dias de la semana son 1 y 3
+
+Para agregar al final del spool se agrega append
+
+
+
+select apellido_paterno
+	from profesor
+	order by apellido_paterno;
+
+--muestra los apellidos paternso ordenados por orden alfabetico
+
+
+select apellido_paterno
+	from profesor
+	order by apellido_paterno desc;
+-- muestra los apellidos de manera descendente de la Z-A
+
+
+select apellido_paterno, apellido_materno
+	from profesor
+	order by apellido_paterno, apellido_materno;
+
+--Sentencia que calcule la edad en anios del doctor felipe lima Rodrigez
+
+select(sysdate - fecha_nacimiento)/365 as 'EDAD'
+from profesor
+where nombre = 'Felipe'
+and apellido_paterno = 'lima'
+and apellido_materno='Rodriguez'
+
+
+select (sysdate) from dual;
+
+select (to_char(SYSDATE, "dd" de "month" de "yyyy" ))
+AS "Hoy es: " FROM DUAL;
+
+

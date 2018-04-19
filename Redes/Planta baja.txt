@@ -1,0 +1,10 @@
+Planta baja
+
+En la planta baja se localizan 100 host, esto tiene por objetivo lograr integrar en un mismo sistema los servicios de voz,
+Datos, Video, etc.
+Buscamos integrar los sistemas de automatizacion y de control
+del edificio, se tiene por objetivo brindar una infraestructura flexible de cables que pueda aceptar y soportar multiples
+sistemas de computacion y de comunicacion.
+El cableado tiene como proposito estandarizar los sistemas de transmisión e información al integrar diferentes 
+medios para soportar todo tipo de tráfico.
+

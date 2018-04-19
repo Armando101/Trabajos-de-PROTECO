@@ -1,0 +1,36 @@
+Operadores relacionales
+Son solo para consulta, no para crear tablas
+
+
+SELECT corte horzontal
+SELECT{column_name1, colimn_name2, ..., column_namen}
+FROM table_name
+WHERE condition 
+
+project  corte vertical
+
+Operador Union 
+Junta dos tablas
+SELECT column_name1, column_name2, .....
+FROM table_name_2
+
+Intersect
+SELECT column_name1, column_name2, ....
+FROM table_name_1....
+intersect
+select column_name1, column_name2, ....
+FROM table_name2
+
+Diference
+La diferencia de 2 conjuntos A y B (A-B) se define como los elementos que estan en A pero que no estan en B
+SELECT column_name1, column_name2, .....
+minius
+SELECT column_name1, column_name2, ....
+FROM tabla_2
+
+Product
+no es muy utilizado debido a la redundancia
+A={1,2,3}		B={7,8}
+AXB={(1,7),(1,8),(2,7),(2,8),(3,7),(3,8)}
+SELECT {column_name1, column_name2,  ... | *}
+FROM table_name1 cross join table_name2, ...

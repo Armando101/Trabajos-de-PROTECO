@@ -1,0 +1,105 @@
+Router: 
+Dispositivo que proporciona conectividad a nivel de red o nivel tres en el modelo OSI. Su función principal consiste en
+enviar o encaminar paquetes de datos de una red a otra, es decir, interconectar subredes, entendiendo por subred un conjunto
+de máquinas IP que se pueden comunicar sin la intervención de un encaminador (mediante puentes de red o un switch), y que por
+tanto tienen prefijos de red distintos.  Un router ayuda a compartir el acceso a Internet de dos maneras: de forma
+inalámbrica o con cables llamados cables de red Ethernet. Todos los routers están diseñados para conectar dispositivos
+mediante cables Ethernet, y te permiten compartir la conexión entrante de Internet entre más de una computadora.
+
+Proveedor Linksys
+Router AC1200 Dual band Smart LKS EA6100 - Negro
+Precio $1,999
+
+https://www.bestbuy.com.mx/p/linksys-router-ac1200-dual-band-smart-lks-ea6100-negro/1000195815?gclid=Cj0KCQjwqsHWBRDsARIsALPWMEMvDzp_4Stx-v43UI6ISsRv4QIeHk-swQ2G2NG6hWttYuIyhboUP1UaAhWTEALw_wcB
+
+**********************************************************
+
+Gateway:
+La pasarela (en inglés gateway ) o puerta de enlace es el dispositivo que actúa de interfaz de conexión entre aparatos o
+dispositivos, y también posibilita compartir recursos entre dos o más computadoras.
+Su propósito es traducir la información del protocolo utilizado en una red inicial, al protocolo usado en la red de destino.
+
+Provedor
+Cisco
+Gateway Gateway para Teléfono IP SPA8800, 4x FXS, 4x FXO 
+Precio $9,299
+Peso 1.3[Kg]
+Intervalo de temperatura operativa 0-45[C]
+Seguridad
+Seguridad
+Algoritmos de seguridad soportados 	HTTPS,MD5
+Soporte VPN 	VPN pass-through IPsec ESP, PPTP, L2TP
+Método de autenticación 	EAP-TLS, EAP-TTLS, EAP-PEAP
+
+https://www.cyberpuerta.mx/index.php?cl=details&anid=09444400dbc41f733d49999084c6c6c2&gclid=Cj0KCQjwqsHWBRDsARIsALPWMEPXuebRtwRxNjS7wHSbRE1cQU40ZYyENU9yeRvhs2rOjTJNo63hv4oaAnkoEALw_wcB
+
+************************************************************
+Switch:
+Conmutador (switch) es el dispositivo digital lógico de interconexión de equipos que opera en la capa de enlace de datos del modelo OSI. Su función es interconectar dos o más segmentos de red, de manera similar a los puentes de red, pasando datos de un segmento a otro de acuerdo con la dirección MAC de destino de las tramas en la red y eliminando la conexión una vez finalizada ésta.
+
+Proveedor BestBuy
+Lynsys - Switch de 16 puertos Gigabit ss3016 - negro/azul
+Estándares de red
+
+IEEE 802.3, IEEE 802.3u, IEEE 802.3x, IEEE 802.3ab, IEEE 802.3az
+https://www.bestbuy.com.mx/p/linksys-switch-de-16-puertos-gigabit-ss3016-negro-azul/1000191653?gclid=Cj0KCQjwqsHWBRDsARIsALPWMEN2usC6x5Y6mQzOsGvuSQ5YuA4_Jzv0rdOL1BePpqyE3WIEnmV2Bn0aAu4hEALw_wcB
+
+**********************************************************************************************************
+Cables:
+UTP:
+(Unshielded Twisted Pair - Par trenzado no apantallado)
+Es el cable de pares trenzados mas utilizado, no posee ningún tipo de protección adicional a la recubierta de PVC y tiene una impedancia de 100 Ohm. El conector más utilizado en este tipo de cable es el RJ45, aunque también pueden usarse otros, dependiendo del adaptador de red. Es sin duda el que hasta ahora ha sido mejor aceptado, por su costo accesibilidad y fácil instalación. Sin embargo a altas velocidades puede resultar vulnerable a las interferencias electromagnéticas del medio ambiente. 
+Proveedor:
+CyberPuerta
+$439 100[m]
+Cable estandar Cat5e
+Color Azul
+Certificacion ISO/IEC 11801, ANSI/TIA/EIA-568A
+
+https://www.cyberpuerta.mx/index.php?cl=details&anid=9994bd4c49fcfcd44bce1d90204949ae&gclid=Cj0KCQjwqsHWBRDsARIsALPWMEP_vV4NhuhMqgBXYpuRiTUUL2zeDPP8GcN0AB0BJGxZuQPBOPgaks0aArQQEALw_wcB
+
+*******************************************************************************************************
+STP:
+(Shielded Twisted Pair- Par trenzado apantallado)
+En este caso, cada par va recubierto por una malla conductora que actúa de pantalla frente a interferencias y ruido eléctrico. Su impedancia es de 150 Ohm. El nivel de protección del STP ante perturbaciones externas es mayor al ofrecido por UTP. Sin embargo es más costoso y requiere más tiempo de instalación. La pantalla del STP para que sea más eficaz requiere una configuración de interconexión con tierra (dotada de continuidad hasta el terminal), con el STP se suele utilizar conectores RJ49. Es utilizado generalmente en las instalaciones de procesos de datos por su capacidad y sus buenas características contra las radiaciones electromagnéticas, pero el inconveniente es que es un cable robusto, caro y difícil de instalar. 
+
+Proveedor CyberPuerta
+Longitud de cable 305 [m]
+Precio $8,599.00
+Cable estandar Cat6a
+Diametro de cable 7.87 [mm]
+Intervalo de temperatura operativa   -20-60[C]
+Certificacion ANSI/TIA-568-C.2, ISO 11801
+Color azul
+
+https://www.cyberpuerta.mx/index.php?cl=details&anid=2bfb96f5b2788add438be4c46438647d&gclid=Cj0KCQjwqsHWBRDsARIsALPWMEMgwatYSEiJyx7umFigqtg3On322ruD-lp2GA_v2ibPAEnt2Z0YkF0aAvM1EALw_wcB
+
+******************************************************************************************************
+Fibra optica:
+La fibra óptica es una delgada hebra de vidrio o silicio fundido que conduce la luz.
+El grosor del filamento es comparable al grosor de un cabello humano, es decir, aproximadamente de 0,1 mm. En cada filamento de fibra óptica podemos apreciar 3 componentes:
+
+    La fuente de luz: LED o laser.
+    el medio transmisor : fibra óptica.
+    el detector de luz: fotodiodo.
+
+Un cable de fibra óptica está compuesto por: Núcleo, manto,recubrimiento, tensores y chaqueta.
+Las fibras ópticas se pueden utilizar con LAN, así como para transmisión de largo alcance, aunque derivar en ella es más complicado que conectarse a una Ethernet. La interfaz en cada computadora pasa la corriente de pulsos de luz hacia el siguiente enlace y también sirve como unión T para que la computadora pueda enviar y recibir mensajes.
+
+Precios
+10m LC UPC a LC UPC duplex 2.0mm PVC(OFNR) OM1 multimodo Cable de conexion de fibra optica $85
+
+Conector	LC a LC	
+Diámetro exterior	2.0mm
+Modo de fibra	62.5/125μm	
+Longitud de onda	850/1300nm
+Tipo de fibra	Dúplex	
+Pérdida por inserción	≤0.3dB
+Pérdida de retorno	≥20dB
+Vibración	≤0.2dB
+Temperatura de operación	-40~75°C
+Temperatura de almacenamiento	-45~85°C
+
+Proveedor FS.com
+
+https://www.fs.com/es/products/42094.html

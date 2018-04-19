@@ -1,0 +1,35 @@
+Routers:
+
+1 router en el sotano					\$1,999
+10 routers en planta baja 				\$19,990	
+10 routers en primer piso				\$19,990
+
+Total									\$41,979
+
+Switches:
+
+1 Switch en el soltano					\$3,249
+
+11 Switches en planta baja				\$35,739
+	125 host para locales
+	25  host para area administrativa
+
+11 Switches en primer piso				\$35,739
+	125 host para locales
+	25  host para area administrativa
+
+Total									\$747,277
+
+Cables:
+	STP				12,800  [m]			\$360,876.06
+	Fibra Optica	3,200 	[m]			\$27,200
+	Total			16,000  [m]			\$388,076.06
+
+Techo Falso  							\$500,000
+
+Honorarios y Mano de obra    %25		\$418,081.265
+
+
+Total:									\$2,095,413.325
+
+El tiempo de implementacion de este cableado estructurado es de entre 6-8 meses

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1515379066 source:/home/saul/Descargas/hello/main.c
+	"miniwin.h"
+
+1515379049 /home/saul/Descargas/hello/miniwin.h
+	<iostream>
+	<queue>
+	<string>
+	<stdbool.h>
+	<string.h>
+
+1515380223 source:/home/saul/Descargas/hello/miniwin.c
+	<fstream>
+	<sstream>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<iostream>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+	<assert.h>
+

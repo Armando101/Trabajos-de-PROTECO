@@ -1,0 +1,14 @@
+import java.lang.reflect.Field;
+
+public class Alv {
+	
+	public static void main(String[] args) throws Exception {
+		String s1 = "Hola";
+		String s2 = "Hola";
+		Field f = String.class.getDeclaredField("value");
+		f.setAccessible(true);
+		f.set(s1, "ppcscalv".toCharArray());
+		System.out.println(s2);
+
+	}
+}
